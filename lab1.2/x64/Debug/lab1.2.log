@@ -1,0 +1,14 @@
+﻿  lab1.2.cpp
+C:\Users\cdos1\source\repos\lab1.2\lab1.2.cpp(15,5): warning C4311: приведение типов: усечение указателя из "int *" в "unsigned int"
+C:\Users\cdos1\source\repos\lab1.2\lab1.2.cpp(15,5): warning C4302: приведение типов: усечение из "int *" к "unsigned int"
+C:\Users\cdos1\source\repos\lab1.2\lab1.2.cpp(15,5): warning C4311: приведение типов: усечение указателя из "int **" в "unsigned int"
+C:\Users\cdos1\source\repos\lab1.2\lab1.2.cpp(15,5): warning C4302: приведение типов: усечение из "int **" к "unsigned int"
+C:\Users\cdos1\source\repos\lab1.2\lab1.2.cpp(17,5): warning C4311: приведение типов: усечение указателя из "int *" в "unsigned int"
+C:\Users\cdos1\source\repos\lab1.2\lab1.2.cpp(17,5): warning C4302: приведение типов: усечение из "int *" к "unsigned int"
+C:\Users\cdos1\source\repos\lab1.2\lab1.2.cpp(17,5): warning C4311: приведение типов: усечение указателя из "int **" в "unsigned int"
+C:\Users\cdos1\source\repos\lab1.2\lab1.2.cpp(17,5): warning C4302: приведение типов: усечение из "int **" к "unsigned int"
+C:\Users\cdos1\source\repos\lab1.2\lab1.2.cpp(19,5): warning C4311: приведение типов: усечение указателя из "int *" в "unsigned int"
+C:\Users\cdos1\source\repos\lab1.2\lab1.2.cpp(19,5): warning C4302: приведение типов: усечение из "int *" к "unsigned int"
+C:\Users\cdos1\source\repos\lab1.2\lab1.2.cpp(19,5): warning C4311: приведение типов: усечение указателя из "int **" в "unsigned int"
+C:\Users\cdos1\source\repos\lab1.2\lab1.2.cpp(19,5): warning C4302: приведение типов: усечение из "int **" к "unsigned int"
+  lab1.2.vcxproj -> C:\Users\cdos1\source\repos\labs\x64\Debug\lab1.2.exe
